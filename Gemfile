@@ -44,3 +44,5 @@ group :development do
   gem 'spring'
 end
 
+
+gem "psych", "~> 3.1"
